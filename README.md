@@ -31,7 +31,6 @@
 - Machine Learning
 - Cloud Computing
 - REST APIs
-- Firebase
 
 💼 Looking for
 
