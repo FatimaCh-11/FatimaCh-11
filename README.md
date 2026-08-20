@@ -156,21 +156,22 @@ A Flutter application that helps users manage nutrition, health goals, and dieta
 
 ---
 
-## 🌐 The Selfistry
+## 🌐 TheSelfistry
 
-A live blogging website developed using WordPress.
+A modern **Django-based blogging website** focused on self-care, mindfulness, and personal growth.
 
 ### Highlights
 
-- Responsive Design
-- SEO Optimization
-- Theme Customization
-- Plugin Management
-- Website Maintenance
+* Django & Python Backend
+* Responsive UI with HTML, CSS & Bootstrap
+* Dynamic Blog & Category Management
+* Django Admin Dashboard
+* SEO-Friendly Design
+* PostgreSQL Database
 
-🌍 **Website**
-
+🌍 **Website:** 
 https://theselfistry.com
+
 
 ---
 
