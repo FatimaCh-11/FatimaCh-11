@@ -14,7 +14,7 @@
 
 🏫 **COMSATS University Islamabad, Sahiwal Campus**
 
-📚 **Currently in 7th Semester**
+📚 **Currently in 8th Semester**
 
 📈 **CGPA:** **3.90 / 4.00**
 
